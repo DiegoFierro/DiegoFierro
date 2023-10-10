@@ -8,6 +8,9 @@
 
   - Email: diegoefierro@gmail.com
 
+  - FB: https://www.facebook.com/DiegoFierro.0
+
+  - IG: @fierrod3
 
 <!---
 DiegoFierro/DiegoFierro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
